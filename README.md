@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 I'm Simar Ubhi.<br>Web developer, philanthropist, and grade 12 student.</h1>
+<h1 align="center">I'm Simar Ubhi 👋<br>Web Developer • Philanthropist • Grade 12 Student</h1>
 
 ###
 

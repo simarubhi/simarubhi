@@ -1,4 +1,4 @@
-<h1 align="center">I'm Simar Singh Ubhi 👋<br>Web Developer & CE Student</h1>
+<h1 align="center">I'm Simar Singh Ubhi 👋<br>Upcomming Embedded Engineer & CE Student</h1>
 
 ###
 

@@ -1,13 +1,13 @@
 <h1 align="center">I'm Simar Singh Ubhi 👋<br>Upcomming Embedded Engineer & CE Student</h1>
 
-###
+### 👨🏻‍💻  About Me
+💡  I’m passionate about learning and constantly expanding my technical expertise and knowledge.<br/>
+🎓  Currently pursuing a degree in Computer Engineering at the University of Manitoba.<br/>
+🌱  Exploring the fascinating world of embedded systems, PCB design, and hardware engineering.<br/>
+✍️  In my free time, I love diving into in-depth engineering videos to better understand how things work.<br/>
+💬  Feel free to connect with me on LinkedIn if you have questions about my code libraries or other inquiries.<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=simarubhi" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=simarubhi" height="150" alt="languages graph"  />
-</div>
-
-###
+### 🛠  Tools I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
 </div>
 
-###
+### 🔗  Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/simar-ubhi/" target="_blank">
